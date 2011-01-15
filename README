@@ -3,5 +3,3 @@ For anybody wanting to get started building D7 features (courtesy of the feature
 So, if you want to live on the edge and take latest drupalcommerce code for a spin just call:
 
 drush make "http://github.com/dwabnitz/commercekit/raw/master/distro.make" commercetest
-
-Enjoy!
